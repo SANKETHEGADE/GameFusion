@@ -1,4 +1,4 @@
-GameFusion 🎮
+GameFusion 
 
 An interactive web-based gaming platform where users can explore games, watch trailers and guides, join per-game chat lobbies, and stay updated on esports. Built with PHP, MySQL, JavaScript, and HTML/CSS.
 
